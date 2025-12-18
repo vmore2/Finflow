@@ -1,0 +1,51 @@
+{
+  "generated_at": "2025-12-18T02:08:15.209990",
+  "stocks": {
+    "AAPL": {
+      "ma_20": 276.96,
+      "rsi_14": 39.69,
+      "signal": "HOLD",
+      "symbol": "AAPL",
+      "analysis": "Price below 20-day MA (bearish) | RSI 39.69 is neutral",
+      "current_price": 271.84
+    },
+    "MSFT": {
+      "ma_20": 481.73,
+      "rsi_14": 43.34,
+      "signal": "HOLD",
+      "symbol": "MSFT",
+      "analysis": "Price below 20-day MA (bearish) | RSI 43.34 is neutral",
+      "current_price": 476.12
+    },
+    "GOOGL": {
+      "ma_20": 311.75,
+      "rsi_14": 28.38,
+      "signal": "HOLD",
+      "symbol": "GOOGL",
+      "analysis": "Price below 20-day MA (bearish) | RSI 28.38 indicates oversold",
+      "current_price": 296.72
+    }
+  },
+  "crypto": {
+    "bitcoin": {
+      "price": 86186,
+      "signal": "HOLD",
+      "symbol": "bitcoin",
+      "change_24h": -1.38
+    },
+    "ethereum": {
+      "price": 2828.36,
+      "signal": "HOLD",
+      "symbol": "ethereum",
+      "change_24h": -3.99
+    }
+  },
+  "summary": {
+    "total_assets": 5,
+    "signals": {
+      "buy": 0,
+      "sell": 0,
+      "hold": 5
+    }
+  }
+}

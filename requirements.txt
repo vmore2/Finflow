@@ -1,0 +1,8 @@
+# FinFlow Dependencies
+# Install with: pip install -r requirements.txt
+
+# Yahoo Finance API wrapper (for stock data)
+yfinance>=0.2.28
+
+# HTTP requests (for CoinGecko API)
+requests>=2.28.0
