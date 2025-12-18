@@ -255,4 +255,4 @@ MIT License - Feel free to use this for your portfolio!
 
 ## 🤝 Author
 
-**Vrush More** | [GitHub](https://github.com/vmore2)
+**Vrushket More** | [GitHub](https://github.com/vmore2)
